@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Open+Sans&display=swap');
 
 body {
-   background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+   background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
    background-position: -15em -25em, 70em 35em;
    background-repeat: no-repeat, no-repeat;
    background-color: hsl(185, 75%, 39%);
