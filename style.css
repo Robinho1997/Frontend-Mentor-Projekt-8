@@ -44,7 +44,7 @@ body {
     align-items: center;
     justify-content: center;
     padding-top: 7em;
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(images/bg-pattern-card.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-color: white;
